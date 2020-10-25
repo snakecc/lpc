@@ -1,0 +1,2 @@
+# lpc
+Linux phone configuration
